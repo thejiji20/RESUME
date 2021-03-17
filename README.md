@@ -3,14 +3,18 @@
 
 * 이름 : 박한솔
 * 군필여부 : 공군 병장 만기 전역
-* 취미
+* 취미 : 
+* 이메일 : solpark.dev@gmail.com
+* GitHub : 
+
+
 
 *italic*
 **Bold**
 1. Test
 2. Test2
 
-![image url](https://images.pexels.com/photos/2917382/pexels-photo-2917382.jpeg?cs=srgb&dl=pexels-jonathan-borba-2917382.jpg&fm=jpg)
+![image url](url here)
 
 
 * Item 1
